@@ -5,9 +5,9 @@
 //  To remove a section: change its list to []  (e.g. faqs: [])
 // ============================================================
 const SITE = {
-  name: "Ironleaf Fitness",
+  name: "TheGymGirlMovement",
   tagline: "Get stronger without the guesswork.",
-  intro: "Personal training, small-group classes and online coaching in Bengaluru. A plan built around your body, your schedule and your goals.",
+  intro: "Specialised women focused personal training, small-group classes and online coaching. A plan built around your body, your schedule and your goals.",
   buttonText: "Book a free trial session",
 
   // Colours: use any hex code. Change these to rebrand the whole site.
